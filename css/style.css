@@ -2,6 +2,7 @@ body {
     background: hsl(210, 46%, 95%);
     margin: 0;
     font-family: sans-serif;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
 }
 
 .container {
@@ -18,6 +19,7 @@ body {
     padding: 15px;
     border-radius: 10px;
     font-family: sans-serif;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
 }
 
 .title img {
