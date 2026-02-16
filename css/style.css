@@ -79,3 +79,15 @@ body {
     /* spans 2 columns */
     grid-row: 2;
 }
+/* Mobile Responsive */
+@media (max-width: 768px) {
+    .container {
+        display: flex;
+        flex-direction: column;
+        padding: 20px;
+    }
+    
+    .testimonial {
+        width: 100%;
+    }
+}
